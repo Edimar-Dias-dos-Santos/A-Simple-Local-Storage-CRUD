@@ -1,5 +1,5 @@
 
-  ##<strong>Simple Local Storage CRUD Application</strong>
+  # <strong>Simple Local Storage CRUD Application</strong>
 
   This is a simple CRUD (Create, Read, Update, Delete) web application for managing employee records. The project is built using HTML, CSS, and JavaScript.
 
