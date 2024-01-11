@@ -1,5 +1,5 @@
 
-  #<strong>Simple Local Storage CRUD Application</strong>
+  ##<strong>Simple Local Storage CRUD Application</strong>
 
   This is a simple CRUD (Create, Read, Update, Delete) web application for managing employee records. The project is built using HTML, CSS, and JavaScript.
 
@@ -49,8 +49,3 @@
   ## Data Storage
 
   This project does not use a database; it utilizes local storage for storing employee records.
-
-  ## License
-
-  This project is licensed under the [MIT License](LICENSE).
-
