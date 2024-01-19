@@ -5,7 +5,7 @@
 
   ## Demo
 
-  You can view the live demo of the project [here](https://edimar-dias-dos-santos.github.io/Mini-aula-projeto-de-HTML-CSS-e-JS/).
+  You can view the live demo of the project [here](https://edimar-dias-dos-santos.github.io/Local-Storage-CRUD/).
 
   ## Features
 
