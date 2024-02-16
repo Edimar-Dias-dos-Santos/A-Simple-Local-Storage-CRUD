@@ -5,7 +5,7 @@
 
   ## Demo
 
-  You can view the live demo of the project [here](https://edimar-dias-dos-santos.github.io/Local-Storage-CRUD/).
+  You can view the live demo of the project [here](https://edimar-dias-dos-santos.github.io/A-Simple-Local-Storage-CRUD/).
 
   ## Features
 
